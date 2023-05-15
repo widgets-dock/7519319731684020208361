@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186582206106",
+    "project_id": "cara-intip-wa-teman",
+    "storage_bucket": "cara-intip-wa-teman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186582206106:android:2ecdb89c1ef79c31460123",
+        "android_client_info": {
+          "package_name": "com.tukangnggedabrus.crintpwatmn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186582206106-2mkg536729frtqageqa3gecnsaiqg26i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGfw_UfS1B0yzjPIghM9AXCxwwQLA2l6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186582206106-2mkg536729frtqageqa3gecnsaiqg26i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
